@@ -1,2 +1,2 @@
-# HackRush-22-Portfolio-Website
+# HackRush-22
  Fork krlo frands
