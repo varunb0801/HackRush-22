@@ -1,4 +1,4 @@
-title: Aniket Rajnish
+title: Kendall
 
 
 markdown: kramdown
@@ -17,7 +17,7 @@ nav:
  - name: "About"
    link: "/me/" 
  - name: "CV"
-   link: "Aniket Rajnish - CV.pdf"
+   link: "Resume.pdf"
  - name: "Contact"
    link: "contact"
  
